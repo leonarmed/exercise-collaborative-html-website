@@ -2,8 +2,12 @@ body{
     background: #ffffff;
 }
 
-.navbar-brand{
-    color: rgba(255,255,255,.55);
+.navbar-dark .navbar-brand{
+    color: #9b9d9e;
+}
+
+.navbar-brand:hover{
+    color: #9b9d9e;
 }
 
 .contact-form{
