@@ -65,3 +65,4 @@ The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-
 Joel -> navbar
 Joel -> Contact
 tito--> portfolio
+Manuel--> firstheading, tagline
